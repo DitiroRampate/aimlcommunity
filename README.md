@@ -1,0 +1,2 @@
+# aimlcommunity
+Breast Cancer Detection using Machine Learning Project Breast cancer detection using machine learning will be a guided project. Though this is an open-source project, we have chosen to start with this so that we can take everyone along with us, even beginners. We are starting with this project so that we can create a team that has practiced technical nitty-gritty with us.   We are currently planning for some projects to do in the future and you can join us as we do those projects after you have gone through and completed this project. 
